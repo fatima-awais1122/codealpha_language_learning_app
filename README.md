@@ -1,6 +1,6 @@
 # 🌍 LingoMaster - Language Learning App
 
-A modern Flutter-based language learning application developed as part of the **CodeAlpha Flutter Development Internship**.
+A modern Flutter-based language learning application developed as part of the **CodeAlpha App Development Internship**.
 
 The app helps users learn new languages through interactive lessons, quizzes, and progress tracking with a clean and user-friendly interface.
 
@@ -8,22 +8,22 @@ The app helps users learn new languages through interactive lessons, quizzes, an
 
 ## ✨ Features
 
-- 📚 Interactive Language Lessons
-- 📝 Quiz System
-- 📈 Progress Tracking
-- 🔥 Firebase Firestore Integration
-- 🎨 Clean & Modern UI
-- 📱 Responsive Design
-- ⚡ Smooth Navigation
+* 📚 Interactive Language Lessons
+* 📝 Quiz System
+* 📈 Progress Tracking
+* 🔥 Firebase Firestore Integration
+* 🎨 Clean & Modern UI
+* 📱 Responsive Design
+* ⚡ Smooth Navigation
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Flutter
-- Dart
-- Firebase Firestore
-- Material Design
+* Flutter
+* Dart
+* Firebase Firestore
+* Material Design
 
 ---
 
@@ -86,4 +86,4 @@ flutter run
 
 ## 📄 License
 
-This project was developed for learning purposes as part of the CodeAlpha Flutter Development Internship.
+This project was developed for learning purposes as part of the **CodeAlpha App Development Internship**.
