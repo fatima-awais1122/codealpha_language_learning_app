@@ -32,11 +32,11 @@ The app helps users learn new languages through interactive lessons, quizzes, an
 <p align="center">
   <img src="assets/screenshots/splash_screen.jpeg" width="180"/>
   <img src="assets/screenshots/home_screen.jpeg" width="180"/>
-  <img src="assets/screenshots/lessons_screen.jpeg" width="180"/>
+  <img src="assets/screenshots/lesson_screen.jpeg" width="180"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/lesson_detail.jpeg" width="180"/>
+  <img src="assets/screenshots/lesson_detail_screen.jpeg" width="180"/>
   <img src="assets/screenshots/quiz_screen.jpeg" width="180"/>
   <img src="assets/screenshots/progress_screen.jpeg" width="180"/>
 </p>
