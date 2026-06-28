@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768073379160",
+    "project_id": "codealpha-language-learning",
+    "storage_bucket": "codealpha-language-learning.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768073379160:android:f1eb61700f715311d9092d",
+        "android_client_info": {
+          "package_name": "com.example.codealpha_language_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzVrk8Sii4qRPcNJf-GiIgiTjO56C2pFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
