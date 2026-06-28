@@ -1,17 +1,89 @@
-# codealpha_language_learning
+# 🌍 LingoMaster - Language Learning App
 
-A new Flutter project.
+A modern Flutter-based language learning application developed as part of the **CodeAlpha Flutter Development Internship**.
 
-## Getting Started
+The app helps users learn new languages through interactive lessons, quizzes, and progress tracking with a clean and user-friendly interface.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 📚 Interactive Language Lessons
+- 📝 Quiz System
+- 📈 Progress Tracking
+- 🔥 Firebase Firestore Integration
+- 🎨 Clean & Modern UI
+- 📱 Responsive Design
+- ⚡ Smooth Navigation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Firebase Firestore
+- Material Design
+
+---
+
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/splash_screen.jpeg" width="180"/>
+  <img src="assets/screenshots/home_screen.jpeg" width="180"/>
+  <img src="assets/screenshots/lessons_screen.jpeg" width="180"/>
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/lesson_detail.jpeg" width="180"/>
+  <img src="assets/screenshots/quiz_screen.jpeg" width="180"/>
+  <img src="assets/screenshots/progress_screen.jpeg" width="180"/>
+</p>
+
+---
+
+## 📂 Project Structure
+
+```text
+lib/
+├── models/
+├── screens/
+├── services/
+├── widgets/
+└── main.dart
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/fatima-awais1122/codealpha_language_learning_app.git
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the app:
+
+```bash
+flutter run
+```
+
+---
+
+## 👩‍💻 Developed By
+
+**Fatima Awais**
+
+---
+
+## 📄 License
+
+This project was developed for learning purposes as part of the CodeAlpha Flutter Development Internship.
